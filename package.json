@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@nomiclabs/hardhat-truffle4": "^2.0.6",
     "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
   }
 }
